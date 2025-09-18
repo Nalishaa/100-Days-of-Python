@@ -1,7 +1,7 @@
-#Finding the length
+# Finding the length
 print(len(input("What is your name?")))
 
-#Using variables
+# Using variables
 name=input("What is your name?")
 length=len(name)
 print(length)
