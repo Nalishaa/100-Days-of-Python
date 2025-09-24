@@ -19,6 +19,5 @@ def encrypt(original_text, shift_amount):
 # TODO-4: What happens if you try to shift z forwards by 9? Can you fix the code?
 encrypt("z",9)
 
-# TODO-3: Call the 'encrypt()' function and pass in the user inputs. You should be able to test the code and encrypt a
-#  message.
+# TODO-3: Call the 'encrypt()' function and pass in the user inputs. You should be able to test the code and encrypt a message.
 encrypt(text,shift)
