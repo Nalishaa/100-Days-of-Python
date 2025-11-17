@@ -2,7 +2,7 @@
 #
 # colors_list = []
 # all_colors = []
-# colors = colorgram.extract('image.jpg',30)
+# colors = colorgram.extract('eg_painting.jpg',30)
 # for color in colors:
 #     colors_list.append(color.rgb)
 #
@@ -12,6 +12,7 @@
 #     b = item[2]
 #     rgb = (r,g,b)
 #     all_colors.append(rgb)
+
 
 
 # 10 x 10 rows of spots
